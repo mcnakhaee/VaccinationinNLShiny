@@ -1,0 +1,48 @@
+Package: vaccinationinNL
+Title: Vaccination in the Netherlands
+Version: 0.0.0.9000
+Authors@R: person('Muhammad', 'Nakhaee', email = 'mcnakhaee@gmail.com', role = c('cre', 'aut'))
+Description: This Project explores how Dutch people express their opinions over vaccination on social media
+License: What license is it under?
+Imports: 
+    config,
+    golem,
+    shiny,
+    dplyr,
+    ggplot2,
+    tidyr,
+    lubridate,
+    rtweet,
+    shinythemes,
+    tidytext,
+    topicmodels,
+    visNetwork,
+    stringr,
+    stm,
+    trendyy,
+    gtrendsR,
+    wikipediatrend,
+    echarts4r,
+    WikipediR,
+    flexdashboard,
+    shinyWidgets,
+    fresh,
+    glue,
+    RedditExtractoR,
+    tweetbotornot,
+    newsanchor,
+    bs4Dash,
+    reactable,
+    plotly,
+    shinydashboard,
+    shinycssloaders,
+    vroom,
+    pkgload,
+    DT,
+    ggthemes
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Depends: 
+    tidyverse,
+    R (>= 2.10)
